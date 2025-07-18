@@ -22,4 +22,5 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
+    font-family: 'Times New Roman', Times, serif;
 }
